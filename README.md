@@ -123,5 +123,3 @@ If you would like to contribute to this project, feel free to fork the repositor
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README file provides a clear explanation of the project, how to clone it, customize it, and run the script. It also includes examples, so anyone using it will know exactly what to expect. You can add this to your repository to make it user-friendly for you and others!
